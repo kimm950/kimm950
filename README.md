@@ -29,4 +29,4 @@
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 </p>
 
-[![{{kimm950}}'s github stats](https://github-readme-stats.vercel.app/api?username={{kimm950}}&show_icons=true)](https://github.com/{{kimm950}})
+[![{{kimm}}'s github stats](https://github-readme-stats.vercel.app/api?username={{kimm}}&show_icons=true)](https://github.com/{{kimm}})

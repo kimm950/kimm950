@@ -28,3 +28,5 @@
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 </p>
+
+![Kim's github stats](https://github-readme-stats.vercel.app/api?username=kimm950&hide=issues&show_icons=true)

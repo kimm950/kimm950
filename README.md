@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kim</h1>
-<h3 align="center">A passionate frontend developer in Japan</h3>
+<h3 align="center">Frontend developer in Japan</h3>
 
 - 🌱 I’m currently learning **Node.js Firebase**
 

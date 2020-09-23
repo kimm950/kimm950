@@ -30,3 +30,4 @@
 </p>
 
 ![Kim's github stats](https://github-readme-stats.vercel.app/api?username=kimm950&hide=issues&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimm950&layout=compact)](https://github.com/kimm950/github-readme-stats)

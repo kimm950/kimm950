@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Node.js Firebase**
 
-- 👨‍💻 All of my projects are available at [kimuoto.com](kimuoto.com)
-
 - 💬 Ask me about **React**
 
 - 📫 How to reach me **Kimuo950@gmail.com**
